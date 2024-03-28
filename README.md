@@ -1,4 +1,4 @@
-## Rock-and-Mine-Prediction-Using-ML
+## Rock-and-Mine-Prediction-Using-Logistic-Regression
 
 Importing necessary librarys
 
